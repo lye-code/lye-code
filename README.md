@@ -30,7 +30,7 @@ const remi = {
   age: 16,
   location: "Nord de la France",
   languages: ["Java", "C"],
-  projects: ["Ethelys", "TraficLillois],
+  projects: ["Ethelys", "TraficLillois"],
   passions: ["Spigot", "Transports"],
   motto: "Codeur le jour, gamer la nuit",
 };
@@ -43,7 +43,7 @@ Salut ! Je suis **Rémi**, jeune développeur passionné de 16 ans originaire du
 ## 🌟 Mon Projet Principal
 
 <div align="center">
-  <a href="https://www.ethelysmc.com">
+  <a href="https://ethelys.fr">
     <img src="https://img.shields.io/badge/EthelysMC-Serveur%20Minecraft-brightgreen?style=for-the-badge&logo=minecraft&logoColor=white" alt="EthelysMC" />
   </a>
 </div>
@@ -58,7 +58,7 @@ Salut ! Je suis **Rémi**, jeune développeur passionné de 16 ans originaire du
   <br>
   
   <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh2dXdoeDd4ZHlkcWhuaHc1N3pnNXVjbXI5ZHN5cW1yZGJhcWF3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rL1Q15ZiCGy5fZFvQB/giphy.gif" alt="Minecraft Animation" width="250px">
+    <img src="https://github.com/lye-code/lye-code/standard.gif" width="250px">
   </div>
   
   ### 🚀 Vision
@@ -121,10 +121,10 @@ timeline
 
 <div align="center">
   
-  <a href="https://discord.gg/ethelysmc">
+  <a href="https://discord.ethelys.fr">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.ethelysmc.com">
+  <a href="https://ethelys.fr">
     <img src="https://img.shields.io/badge/Site%20Web-EthelysMC-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
   <a href="https://github.com/lye-code">
