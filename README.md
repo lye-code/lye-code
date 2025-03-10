@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lye-code&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lye-dev&style=for-the-badge&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/badge/Âge-16%20ans-blue?style=for-the-badge" alt="Âge" />
   <img src="https://img.shields.io/badge/Localisation-Nord,%20France-red?style=for-the-badge" alt="Localisation" />
 </div>
@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lye-code&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lye-code&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lye-dev&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lye-dev&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
 </div>
 
 ## 💫 À propos de moi
@@ -49,7 +49,7 @@ Salut ! Je suis **Rémi**, jeune développeur passionné de 16 ans originaire du
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lye-code&bg_color=1a1b27&color=628fda&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lye-dev&bg_color=1a1b27&color=628fda&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <details>
@@ -58,7 +58,7 @@ Salut ! Je suis **Rémi**, jeune développeur passionné de 16 ans originaire du
   <br>
   
   <div align="center">
-    <img src="https://github.com/lye-code/lye-code/standard.gif" width="250px">
+    <img src="https://github.com/lye-dev/lye-dev/standard.gif" width="250px">
   </div>
   
   ### 🚀 Vision
@@ -86,7 +86,7 @@ Salut ! Je suis **Rémi**, jeune développeur passionné de 16 ans originaire du
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lye-code&theme=radical&layout=compact&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lye-dev&theme=radical&layout=compact&hide_border=true" alt="Top Langs" />
 </div>
 
 ## 📈 Mon Parcours
@@ -127,7 +127,7 @@ timeline
   <a href="https://ethelys.fr">
     <img src="https://img.shields.io/badge/Site%20Web-EthelysMC-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://github.com/lye-code">
+  <a href="https://github.com/lye-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
